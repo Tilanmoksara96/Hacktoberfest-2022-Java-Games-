@@ -21,7 +21,7 @@ To participate as a maintainer, you must facilitate participation for contributo
 
 Then, you must merge four PRs into your repository during October. If you decide to use the second option mentioned in the first step, make sure to add the hacktoberfest-accepted label into these PRs.
 
-##Rules
+## Rules
 
     1. For PRs to be counted into your participation in Hacktoberfest, they must be merged between October 1st and October 31st.
     2. Contributions must be made to public repositories.
