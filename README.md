@@ -1,10 +1,10 @@
 ![header image](https://github.com/Tilanmoksara96/Hacktoberfest-2022-Java-Games-/blob/main/assets/unnamed.png)
-### Hacktoberfest-2022-Java-Games-
+# Hacktoberfest-2022-Java-Games-
 Give your contributions to add java games
 # 💻 🎲 👾
 
 ## How to Participate in Hacktoberfest 2022? :octocat: 
-# Participating as a Contributor
+### Participating as a Contributor
 As a contributor, during October you must have four PRs that either:
 
     Are merged into a participating repository;
@@ -13,7 +13,7 @@ As a contributor, during October you must have four PRs that either:
 
 A participating repository is a repository that has the hacktoberfest topic. Participation can be done through GitHub or GitLab.
 
-# Participating as a Maintainer
+### Participating as a Maintainer
 To participate as a maintainer, you must facilitate participation for contributors. The first step is to either:
 
    1. Add the hacktoberfest topic to your repository;
